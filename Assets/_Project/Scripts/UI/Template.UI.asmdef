@@ -1,0 +1,17 @@
+{
+    "name": "Template.UI",
+    "rootNamespace": "Template.UI",
+    "references": [
+        "Template.Core",
+        "Template.Input"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

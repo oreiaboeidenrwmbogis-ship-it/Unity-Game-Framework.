@@ -1,0 +1,22 @@
+{
+    "name": "Template.Assets.Editor",
+    "rootNamespace": "Template.Assets.EditorTools",
+    "references": [
+        "Template.Assets",
+        "Template.Core",
+        "Unity.Addressables",
+        "Unity.Addressables.Editor",
+        "Unity.ResourceManager"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

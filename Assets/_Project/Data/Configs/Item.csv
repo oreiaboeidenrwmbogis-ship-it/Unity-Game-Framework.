@@ -1,0 +1,6 @@
+id,name,price,attack,stackable
+int,string,int,int,bool
+1001,木剑,30,12,false
+1002,铁剑,33,25,false
+1003,生命药水,15,0,true
+1004,魔力药水,20,0,true

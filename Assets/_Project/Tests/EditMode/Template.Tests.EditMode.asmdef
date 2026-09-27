@@ -1,0 +1,36 @@
+{
+    "name": "Template.Tests.EditMode",
+    "rootNamespace": "Template.Tests",
+    "references": [
+        "Template.Core",
+        "Template.Settings",
+        "Template.Audio",
+        "Template.Config",
+        "Template.Config.Editor",
+        "Template.Configs",
+        "Template.Save",
+        "Template.Assets",
+        "Template.CameraSystem",
+        "Template.Vfx",
+        "Template.Diagnostics",
+        "Unity.ResourceManager",
+        "Unity.InputSystem",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Template.Assets",
+    "rootNamespace": "Template.Assets",
+    "references": [
+        "Template.Core",
+        "Unity.Addressables",
+        "Unity.ResourceManager",
+        "UniTask",
+        "UniTask.Addressables"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

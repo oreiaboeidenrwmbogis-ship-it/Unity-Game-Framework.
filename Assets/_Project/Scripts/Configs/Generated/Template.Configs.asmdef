@@ -1,0 +1,17 @@
+{
+    "name": "Template.Configs",
+    "rootNamespace": "Template.Config.Generated",
+    "references": [
+        "Template.Config",
+        "Template.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Template.CameraSystem",
+    "rootNamespace": "Template.CameraSystem",
+    "references": [
+        "Template.Core",
+        "Cinemachine"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0baf80ab08bed6d48b1c6ae7ae6535c4, type: 3}
+  m_Name: ItemTable
+  m_EditorClassIdentifier: 
+  _rows:
+  - id: 1001
+    name: "\u6728\u5251"
+    price: 30
+    attack: 12
+    stackable: 0
+  - id: 1002
+    name: "\u94C1\u5251"
+    price: 33
+    attack: 25
+    stackable: 0
+  - id: 1003
+    name: "\u751F\u547D\u836F\u6C34"
+    price: 15
+    attack: 0
+    stackable: 1
+  - id: 1004
+    name: "\u9B54\u529B\u836F\u6C34"
+    price: 20
+    attack: 0
+    stackable: 1
+  _sourceCsv: Assets/_Project/Data/Configs/Item.csv

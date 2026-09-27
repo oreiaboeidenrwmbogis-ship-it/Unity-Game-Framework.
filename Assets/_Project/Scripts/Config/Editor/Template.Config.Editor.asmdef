@@ -1,0 +1,19 @@
+{
+    "name": "Template.Config.Editor",
+    "rootNamespace": "Template.Config.EditorTools",
+    "references": [
+        "Template.Config",
+        "Template.Core"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

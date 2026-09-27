@@ -1,0 +1,31 @@
+{
+    "name": "Template.Demo",
+    "rootNamespace": "Template.Demo",
+    "references": [
+        "Template.Core",
+        "Template.UI",
+        "Template.Input",
+        "Template.Audio",
+        "Template.Config",
+        "Template.Configs",
+        "Template.Save",
+        "Template.Assets",
+        "Template.CameraSystem",
+        "Template.Vfx",
+        "Template.Diagnostics",
+        "UniTask",
+        "Unity.Addressables.Editor",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

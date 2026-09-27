@@ -1,0 +1,25 @@
+{
+    "name": "Template.Diagnostics",
+    "rootNamespace": "Template.Diagnostics",
+    "references": [
+        "Template.Core",
+        "Template.Input",
+        "Template.Settings",
+        "Template.Audio",
+        "Template.Config",
+        "Template.Save",
+        "Template.Assets",
+        "Template.Vfx",
+        "Template.CameraSystem",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
